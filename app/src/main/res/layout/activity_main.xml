@@ -177,7 +177,7 @@
                 android:text="3"
                 android:layout_margin="4dp"/>
             <Button
-                android:id="@+id/btnerr"
+                android:id="@+id/btnplus"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
